@@ -1,0 +1,67 @@
+@import "~antd/dist/antd.css";
+
+.ant-btn .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-message .anticon {
+  transform: translateY(-4px);
+}
+
+.ant-spin .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-pagination-item-link .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-menu-item .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-table-cell .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-menu-submenu-title .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-steps-item-icon .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-input-group-addon .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-modal-close .anticon {
+  transform: translateY(-3px);
+}
+
+.ant-upload {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.ant-avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ant-list-item {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.chartSpinLoader {
+  text-align: center;
+  background: white;
+  /* justify-content:center; */
+  border-radius: 4px;
+  margin-bottom: 10px;
+  /* padding: 30px 50px; */
+  /* margin: 20px 0; */
+}
