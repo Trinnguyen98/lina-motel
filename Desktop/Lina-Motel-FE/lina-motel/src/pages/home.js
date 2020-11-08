@@ -64,7 +64,7 @@ export const Home = () => {
 
         <Divider orientation="right"><Typography.Title>More</Typography.Title></Divider>
         <div class="flex m-4 ">
-          <div class="w-2/5 p-2">
+          <div class="w-3/5 p-2">
             <Typography.Paragraph>
               Ant Design, a design language for background applications, is refined by Ant UED Team. Ant
               Design, a design language for background applications, is refined by Ant UED Team. Ant Design,
@@ -82,7 +82,7 @@ export const Home = () => {
               language for background applications, is refined by Ant UED Team. Ant Design, a design
               language for background applications, is refined by Ant UED Team.
   </Typography.Paragraph></div>
-          <div class="w-3/5 p-2 text-center">
+          <div class="w-2/5 p-2 text-center">
             <Image
               src={dashboard2}
             />
